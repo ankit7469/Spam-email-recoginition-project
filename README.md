@@ -1,4 +1,5 @@
 Spam Email Detection using Logistic Regression
+
 📘 Project Overview
 
 This project builds a Machine Learning model to classify emails as Spam or Ham (Not Spam) using Logistic Regression.
